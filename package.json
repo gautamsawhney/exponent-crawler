@@ -1,0 +1,14 @@
+{
+  "name": "exponent-crawler",
+  "version": "1.0.0",
+  "description": "Crawl tryexponent.com/questions for interview-question metadata",
+  "type": "module",
+  "dependencies": {
+    "apify": "^3.4.5",
+    "cheerio": "^1.0.0-rc.12",
+    "crawlee": "^3.10.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
