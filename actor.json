@@ -1,8 +1,8 @@
 {
   "name": "exponent-crawler",
   "title": "Exponent Questions Crawler",
-  "description": "Scrapes question lists from tryexponent.com",
-  "version": "0.1",
+  "description": "Scrapes tryexponent.com interview questions",
+  "version": "2.0",
   "dockerfile": "FROM apify/actor-node-playwright-chrome:17",
-  "env": { "NODE_OPTIONS": "--max_old_space_size=512" }
+  "env": { "NODE_OPTIONS": "--max_old_space_size=1024" }
 }

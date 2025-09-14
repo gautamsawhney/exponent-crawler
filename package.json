@@ -1,12 +1,12 @@
 {
   "name": "exponent-crawler",
-  "version": "1.0.0",
-  "description": "Crawl tryexponent.com/questions for interview-question metadata",
+  "version": "2.0.0",
   "type": "module",
+  "description": "Scrape tryexponent.com interview questions (JS-rendered pages)",
   "dependencies": {
     "apify": "^3.4.5",
-    "cheerio": "^1.0.0-rc.12",
-    "crawlee": "^3.10.0"
+    "crawlee": "^3.10.0",
+    "playwright": "^1.55.0"
   },
   "scripts": {
     "start": "node main.js"
