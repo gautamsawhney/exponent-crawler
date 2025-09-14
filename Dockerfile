@@ -1,1 +1,1 @@
-FROM apify/actor-node-playwright-chrome:17
+FROM apify/actor-node-playwright-chrome:20
