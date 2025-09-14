@@ -1,9 +1,9 @@
 {
-  "usableSessionsCount": 2,
+  "usableSessionsCount": 11,
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_5W9mTr3gKa",
+      "id": "session_9blfkiRaQO",
       "cookieJar": {
         "version": "tough-cookie@5.1.2",
         "storeType": "MemoryCookieStore",
@@ -16,14 +16,14 @@
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2025-09-14T06:57:49.926Z",
-      "createdAt": "2025-09-14T06:07:49.925Z",
+      "expiresAt": "2025-09-14T07:08:52.186Z",
+      "createdAt": "2025-09-14T06:18:52.186Z",
       "usageCount": 0,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_wDS25bu536",
+      "id": "session_lu0YS5j0d3",
       "cookieJar": {
         "version": "tough-cookie@5.1.2",
         "storeType": "MemoryCookieStore",
@@ -34,164 +34,366 @@
         "cookies": [
           {
             "key": "session_uuid",
-            "value": "1382e93c-544e-4f0d-86b4-8db2116505c2",
-            "expires": "2026-10-19T06:07:51.894Z",
+            "value": "e8184089-f999-4095-853b-d0bde06dbc45",
+            "expires": "2026-10-19T06:18:54.174Z",
             "domain": "www.tryexponent.com",
             "path": "/",
             "hostOnly": true,
-            "creation": "2025-09-14T06:07:56.610Z",
-            "lastAccessed": "2025-09-14T06:07:56.610Z"
+            "creation": "2025-09-14T06:18:58.843Z",
+            "lastAccessed": "2025-09-14T06:19:15.314Z"
           },
           {
             "key": "_csrf",
-            "value": "CvuHzdSdYOxdnhR03ObUePxU",
-            "expires": "2025-09-14T06:57:56.606Z",
+            "value": "A1C5tdaIEMOrIdWN-FYRImlA",
+            "expires": "2025-09-14T07:08:58.848Z",
             "domain": "www.tryexponent.com",
             "path": "/",
             "hostOnly": true,
-            "creation": "2025-09-14T06:07:56.610Z",
-            "lastAccessed": "2025-09-14T06:07:56.610Z"
+            "creation": "2025-09-14T06:18:58.843Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "heroku-session-affinity",
-            "value": "Q38DAQERU3RpY2t5U2Vzc2lvbkRhdGEB/4AAAQMBBUFwcElEAQwAAQhEeW5vTmFtZQEMAAEJRHlub0NvdW50AQQAAAAM/4ACBXdlYi4zAQgAWIX/wMjlFPO+VNkrie13+wOdLx0hkCcx/8W+MMIIO/Y=",
-            "expires": "2025-09-14T06:57:56.606Z",
+            "value": "Q38DAQERU3RpY2t5U2Vzc2lvbkRhdGEB/4AAAQMBBUFwcElEAQwAAQhEeW5vTmFtZQEMAAEJRHlub0NvdW50AQQAAAAM/4ACBXdlYi4xAQgAVdOjBAtT64xP4WsNZYrIkg25DM00LWlC0WnLzokMnpQ=",
+            "expires": "2025-09-14T07:08:58.848Z",
             "domain": "www.tryexponent.com",
             "path": "/",
             "hostOnly": true,
-            "creation": "2025-09-14T06:07:56.610Z",
-            "lastAccessed": "2025-09-14T06:07:56.610Z"
+            "creation": "2025-09-14T06:18:58.843Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_gcl_au",
-            "value": "1.1.1988040673.1757830073",
-            "expires": "2025-12-13T06:07:52.000Z",
+            "value": "1.1.1718260147.1757830736",
+            "expires": "2025-12-13T06:18:56.000Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.610Z",
-            "lastAccessed": "2025-09-14T06:07:56.610Z"
+            "creation": "2025-09-14T06:18:58.843Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "pageCount",
-            "value": "1",
-            "expires": "2025-09-14T06:27:52.000Z",
+            "value": "11",
+            "expires": "2025-09-14T06:39:13.000Z",
             "domain": "www.tryexponent.com",
             "path": "/",
             "hostOnly": true,
-            "creation": "2025-09-14T06:07:56.613Z",
-            "lastAccessed": "2025-09-14T06:07:56.613Z"
-          },
-          {
-            "key": "_ga_P2FE1X96VY",
-            "value": "GS2.1.s1757830073$o1$g0$t1757830073$j60$l0$h0",
-            "expires": "2026-10-19T06:07:53.252Z",
-            "domain": "tryexponent.com",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.613Z",
-            "lastAccessed": "2025-09-14T06:07:56.613Z"
-          },
-          {
-            "key": "_ga",
-            "value": "GA1.2.1901024614.1757830073",
-            "expires": "2026-10-19T06:07:53.436Z",
-            "domain": "tryexponent.com",
-            "path": "/",
-            "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.845Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_gid",
-            "value": "GA1.2.738617309.1757830073",
-            "expires": "2025-09-15T06:07:53.000Z",
+            "value": "GA1.2.1061978020.1757830736",
+            "expires": "2025-09-15T06:19:13.000Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.845Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_gat_UA-71851531-4",
             "value": "1",
-            "expires": "2025-09-14T06:08:53.000Z",
+            "expires": "2025-09-14T06:19:56.000Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.847Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
-            "key": "_hjSessionUser_1554104",
-            "value": "eyJpZCI6Ijk5Njg3OWVmLWNlODAtNWFkMi04YTM5LTM0ZTY1OWViYjI1NSIsImNyZWF0ZWQiOjE3NTc4MzAwNzM0NzgsImV4aXN0aW5nIjp0cnVlfQ==",
-            "expires": "2026-09-14T06:07:53.000Z",
+            "key": "_ga",
+            "value": "GA1.1.1806922960.1757830736",
+            "expires": "2026-10-19T06:19:13.982Z",
             "domain": "tryexponent.com",
             "path": "/",
-            "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.847Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
-            "key": "_hjSession_1554104",
-            "value": "eyJpZCI6IjI1NjE2NTRmLTdlMDAtNDJlMi05N2Y4LTQwZTc3ZTYyNjcyOSIsImMiOjE3NTc4MzAwNzM0NzgsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
-            "expires": "2025-09-14T06:37:53.000Z",
+            "key": "_ga_P2FE1X96VY",
+            "value": "GS2.1.s1757830736$o1$g1$t1757830753$j43$l0$h0",
+            "expires": "2026-10-19T06:19:13.984Z",
             "domain": "tryexponent.com",
             "path": "/",
-            "secure": true,
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.847Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_uetsid",
-            "value": "26a242e0913111f0b3e15beb6aaa103b",
-            "expires": "2025-09-15T06:07:53.000Z",
+            "value": "b1a781e0913211f0a0261b7bf7a0b435",
+            "expires": "2025-09-15T06:19:13.000Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.847Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_uetvid",
-            "value": "26a24b10913111f0ab4f5bc84b51da7b",
-            "expires": "2026-10-09T06:07:53.000Z",
+            "value": "b1a79db0913211f0a0701fab0e2e485e",
+            "expires": "2026-10-09T06:19:13.000Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.847Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_fbp",
-            "value": "fb.1.1757830073756.97125541196649559",
-            "expires": "2025-12-13T06:07:53.000Z",
+            "value": "fb.1.1757830736504.217128828437483535",
+            "expires": "2025-12-13T06:19:13.000Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.848Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
+          },
+          {
+            "key": "_hjSession_1554104",
+            "value": "eyJpZCI6IjFiYThjYjhhLWI3ZjItNDM0My05MmI5LTBiNzc0ZDdjYWUwMiIsImMiOjE3NTc4MzA3MzY5OTcsInMiOjEsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxfQ==",
+            "expires": "2025-09-14T06:48:56.000Z",
+            "domain": "tryexponent.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-14T06:18:58.848Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
+          },
+          {
+            "key": "_hjSessionUser_1554104",
+            "value": "eyJpZCI6IjdlMDM1YWVjLWViYWYtNTY5ZC05ZGUzLWMxZjcwNDFkZWJhMyIsImNyZWF0ZWQiOjE3NTc4MzA3MzY5OTcsImV4aXN0aW5nIjp0cnVlfQ==",
+            "expires": "2026-09-14T06:19:13.000Z",
+            "domain": "tryexponent.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-14T06:18:58.848Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           },
           {
             "key": "_drip_client_4708520",
-            "value": "vid%253Dcb4f3f948d71442998b02959591dabd7%2526pageViews%253D1%2526sessionPageCount%253D1%2526lastVisitedAt%253D1757830075156%2526weeklySessionCount%253D1%2526lastSessionAt%253D1757830075156",
-            "expires": "2026-10-19T06:07:55.993Z",
+            "value": "vid%253Dd7cff8530de64fa8a1a34610cf2449de%2526pageViews%253D8%2526sessionPageCount%253D8%2526lastVisitedAt%253D1757830753764%2526weeklySessionCount%253D1%2526lastSessionAt%253D1757830737102",
+            "expires": "2026-10-19T06:19:14.616Z",
             "domain": "tryexponent.com",
             "path": "/",
             "hostOnly": false,
-            "creation": "2025-09-14T06:07:56.616Z",
-            "lastAccessed": "2025-09-14T06:07:56.616Z"
+            "creation": "2025-09-14T06:18:58.848Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
+          },
+          {
+            "key": "__stripe_mid",
+            "value": "4c757899-124e-4dce-99a4-bfca2d1b25e6353570",
+            "expires": "2026-09-14T06:19:14.000Z",
+            "domain": "www.tryexponent.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-14T06:19:05.527Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
+          },
+          {
+            "key": "__stripe_sid",
+            "value": "edc886ea-7f7c-47a6-b8e1-c03479bad698d86e24",
+            "expires": "2025-09-14T06:49:14.000Z",
+            "domain": "www.tryexponent.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-14T06:19:05.527Z",
+            "lastAccessed": "2025-09-14T06:19:15.315Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2025-09-14T06:57:49.927Z",
-      "createdAt": "2025-09-14T06:07:49.927Z",
-      "usageCount": 1,
+      "expiresAt": "2025-09-14T07:08:52.187Z",
+      "createdAt": "2025-09-14T06:18:52.187Z",
+      "usageCount": 10,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_sItGTJfEoA",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:08:52.192Z",
+      "createdAt": "2025-09-14T06:18:52.192Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_yjcndw7uZq",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:00.733Z",
+      "createdAt": "2025-09-14T06:19:00.733Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_2OsEzbriOA",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:00.738Z",
+      "createdAt": "2025-09-14T06:19:00.738Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_fXMw5IJacG",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:02.233Z",
+      "createdAt": "2025-09-14T06:19:02.233Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_jHEegHSft1",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:07.420Z",
+      "createdAt": "2025-09-14T06:19:07.420Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_cNOGxij0kC",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:07.425Z",
+      "createdAt": "2025-09-14T06:19:07.425Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ZU70NpzVFt",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:07.426Z",
+      "createdAt": "2025-09-14T06:19:07.426Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_IecVLqmYyK",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:12.135Z",
+      "createdAt": "2025-09-14T06:19:12.135Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_GNVfwgRIVh",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-14T07:09:12.438Z",
+      "createdAt": "2025-09-14T06:19:12.438Z",
+      "usageCount": 0,
       "maxUsageCount": 50,
       "errorScore": 0
     }

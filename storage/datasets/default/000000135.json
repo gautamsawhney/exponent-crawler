@@ -1,0 +1,9 @@
+{
+	"question": "Given a matrix with a rat, bread, cat, and obstacles, find a path from the rat to the bread that maximizes the minimum distance from cat.",
+	"companies": "Google logo, X, F, [",
+	"tags": "Software Engineer, Coding, +1 more, Software Engineer, Coding, +1 more",
+	"answers": 3,
+	"rawDate": "2025-05-09T15:20:02.304Z",
+	"link": "https://www.tryexponent.com/questions/5244/safest-path-maximize-minimum-distance-matrix",
+	"askedWhen": "09/05/2025"
+}

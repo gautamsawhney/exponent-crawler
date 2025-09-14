@@ -1,0 +1,9 @@
+{
+	"question": "Given an array of numbers where every number occurs twice except one, how would you find the unique number in O(log n) time?",
+	"companies": "Meta (Facebook) logo, V, X",
+	"tags": "Software Engineer, Coding, Software Engineer, Coding",
+	"answers": 24,
+	"rawDate": "2024-03-12T20:24:47.174Z",
+	"link": "https://www.tryexponent.com/questions/3804/find-unique-number-array-logn-time",
+	"askedWhen": "13/03/2024"
+}

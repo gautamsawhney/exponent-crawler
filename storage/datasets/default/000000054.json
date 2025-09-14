@@ -1,0 +1,9 @@
+{
+	"question": "Design a system to deny services to requests from banned IPs, as per information provided by security.gov.x.",
+	"companies": "Google logo, C, A",
+	"tags": "Software Engineer, System Design, +2 more, Software Engineer, System Design, +2 more",
+	"answers": 13,
+	"rawDate": "2025-07-30T17:13:39.174Z",
+	"link": "https://www.tryexponent.com/questions/4090/design-system-deny-service-banned-ips",
+	"askedWhen": "30/07/2025"
+}
