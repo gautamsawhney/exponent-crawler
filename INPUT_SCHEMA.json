@@ -1,0 +1,35 @@
+{
+  "title": "Crawler settings",
+  "description": "Configure which Exponent pages to crawl and how fast.",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "startPage": {
+      "title": "Start page (1-203)",
+      "description": "The first page number you want the crawler to fetch.",
+      "type": "integer",
+      "minimum": 1,
+      "default": 1
+    },
+    "endPage": {
+      "title": "End page (1-203)",
+      "description": "The last page number to fetch (inclusive).",
+      "type": "integer",
+      "minimum": 1,
+      "default": 203
+    },
+    "useProxy": {
+      "title": "Use Apify proxy?",
+      "description": "If true, requests go through the free shared proxy pool.",
+      "type": "boolean",
+      "default": true
+    },
+    "maxConcurrency": {
+      "title": "Max parallel pages",
+      "description": "How many pages the crawler downloads at the same time.",
+      "type": "integer",
+      "default": 5
+    }
+  },
+  "required": ["startPage", "endPage"]
+}
